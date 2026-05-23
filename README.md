@@ -6,9 +6,9 @@ Website manajemen event berbasis Full-stack Framework.
 
 | Field | Detail |
 |---|---|
-| Nama | Muhammad Hammam Ghazi |
-| NIM | 24090056 |
-| Kelas | 4B |
+| Nama | Vina Maulidah |
+| NIM | 24090014 |
+| Kelas | 4A |
 | Prodi | D4 Teknik Informatika |
 | Fakultas | Sekolah Vokasi — Universitas Harkat Negeri |
 
@@ -17,7 +17,7 @@ Website manajemen event berbasis Full-stack Framework.
 ## Link Penting
 
 
-| GitHub Frontend | [https://github.com/username/repo-frontend] |
+| GitHub Frontend | [coming soon] |
 
 | Video YouTube | [Coming Soon] |
 
